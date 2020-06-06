@@ -1,7 +1,91 @@
-.DS_Store
-Thumbs.db
-db.json
-*.log
-node_modules/
-public/
-.deploy*/
+{
+	"result": {
+		"companyName": "北欧风格",
+		"constructLevel": 4.8,
+		"latitude": 22.549036,
+		"subBusinessCooperationStatus": 2,
+		"orderNum": 26,
+		"basicData": ["5篇业主日记", "设计过42个小区户型"],
+		"cityId": 1130,
+		"decLogo": "https://test-pic.to8to.com//user/63/headphoto_s_1677063_s.jpg?v=1568605041",
+			"bannerList": [{
+			"imgUrl": "https://test-pic.to8to.com//dcs/banner/20190904/fcece52750b38db37586308b3d2daef8_480.jpg",
+			"id": 5015
+		}, {
+			"imgUrl": "https://test-pic.to8to.com//dcs/banner/20191203/5edb0fbcd8077a99ff7c0fcaa3dc3aa8_480.jpg",
+			"id": 5098
+		}],
+		"appointmentNum": 33,
+		"cooperationType": 2,
+		"videoList": [{
+			"imgUrl": "https://test-pic.to8to.com//dcs/banner/20190904/934f703c19f7f1a3872cf0c162b85d0a_480.jpg",
+			"imgId": 5014,
+			"videoUrl": "https://test-pic.to8to.com//dcs/banner/20190904/f91014279813b9ee9f3779ad7abbf905.mp4",
+			"videoId": 5013
+		}],
+		"decShortName": "圣盔谷简约",
+		"rankingList": [{
+			"rankingUrl": "https://mapp.to8to.com/wap/activity/ranking?id=24&citId=1130",
+			"rankLabelColor": "#FF5921",
+			"rankingName": "123",
+			"rankingId": 24,
+			"rankBackgroundColor": "#FFF0EC"
+		}],
+		"designerNum": 32,
+		"calledSituation": "免费咨询",
+		"phoneStaffId": 11274019,
+		"axnPhone": "17154890504",
+		"longitude": 113.947646,
+		"bizServiceList": [{
+			"title": "量房",
+			"activitySubType": "8001",
+			"priceText": "9999.99元/次",
+			"content": "问二我"
+		}, {
+			"title": "设计",
+			"activitySubType": "8002",
+			"priceText": "免费",
+			"content": "二位"
+		}, {
+			"title": "报价",
+			"activitySubType": "8003",
+			"priceText": "9999.90元/㎡",
+			"content": "问"
+		}],
+		"address": "国人通信大厦4f",
+		"caseNum": 42,
+		"h5IndexUrl": "https://test-m.to8to.com/sz/zs/1677063",
+		"companyLogo": "http://pic.to8to.com/company/20200417/1dd92012f79784dfbba6e6bd2d18cda8_s.png",
+		"authStatus": 1,
+		"mainCooperationStatus": "5!500!50001!02",
+		"evaluationLevel": 4.5,
+		"diaryNum": 5,
+		"serviceLevel": 4.8,
+		"shopTreasureStatus": 2,
+		"labelList": [{
+			"tabImage": "",
+			"tabTitle": "免费报价",
+			"borderColour": "",
+			"tabColour": "",
+			"tabUrl": ""
+		}, {
+			"tabImage": "",
+			"tabTitle": "免费平面设计",
+			"borderColour": "",
+			"tabColour": "",
+			"tabUrl": ""
+		}, {
+			"tabImage": "",
+			"tabTitle": "免费上门量房",
+			"borderColour": "",
+			"tabColour": "",
+			"tabUrl": ""
+		}],
+		"companyId": 1677063,
+		"evaluationNum": 65,
+		"quoteLevel": 0.0,
+		"designLevel": 5.0,
+		"brandLabel": []
+	},
+	"status": 200
+}
