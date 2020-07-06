@@ -1,4 +1,8 @@
-### Swagger Format插件
+---
+typora-root-url: ..
+---
+
+Swagger Format插件
 
 事情是这样的。
 
@@ -6,9 +10,9 @@
 
 #### 效果：
 
-<img src="/images/SwaggerFormat.gif" alt="SwaggerFormat" style="zoom:35%;" />
+<img src="/images/IDEA%20Plugin/SwaggerFormat.gif" alt="SwaggerFormat" style="zoom:33%;" />
 
-<img src="/images/YapiFormat.gif" alt="YapiFormat" style="zoom:35%;" />
+<img src="/images/IDEA%20Plugin/YapiFormat.gif" alt="YapiFormat" style="zoom:33%;" />
 
 #### 源码：[SwaggerFormat](https://github.com/aiyayin/SwaggerFormat)
 

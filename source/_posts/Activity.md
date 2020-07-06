@@ -1,3 +1,7 @@
+---
+typora-root-url: ..
+---
+
 
 ### setContentView
 
@@ -60,6 +64,6 @@ AppCompatActivity .onCreate
 
 ->switch (name)  createView
 
-![(类图)](/images/LayoutInflater.png)
+![LayoutInflater](/images/Activity/LayoutInflater-1594026178672.png)
 
 参考：https://cloud.tencent.com/developer/user/2898788
