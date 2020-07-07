@@ -1,4 +1,11 @@
 ---
+title: Swagger Format插件
+date: 2020-07-06
+categories: 
+- 工具
+tags:
+- IDEA
+- plugin
 typora-root-url: ..
 ---
 
@@ -39,3 +46,6 @@ Swagger Format插件
 生成的包引入android  studio的时候报" plugin 'XXX' is incompatible with this installation"：
 
 查看你studio的版本，降低plugin.xml中since-build到studio的版本，在build.gradle的intellij中加入updateSinceUntilBuild false [配置插件](https://kana112233.github.io/intellij-sdk-docs-cn/tutorials/build_system/deployment.html)
+
+
+

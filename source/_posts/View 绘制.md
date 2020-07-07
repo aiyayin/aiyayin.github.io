@@ -1,3 +1,12 @@
+---
+title: View 绘制
+categories: 
+- Android
+tags:
+- Android
+typora-root-url: ..
+---
+
 View 绘制
 
 过度绘制

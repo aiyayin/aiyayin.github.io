@@ -1,4 +1,9 @@
 ---
+title: setContentView流程
+categories: 
+- Android
+tags:
+- Android
 typora-root-url: ..
 ---
 
